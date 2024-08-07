@@ -18,7 +18,7 @@ entities:
   - uid: 2
     components:
     - type: MetaData
-      name: grid
+      name: Tyne
     - type: Transform
       pos: -0.5,-0.5
       parent: invalid
